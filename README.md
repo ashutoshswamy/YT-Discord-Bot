@@ -1,3 +1,3 @@
 # Discord Bot using discord.js
 
-Subscribe to my channel - [Click Here](https://www.youtube.com/@codeitjs)
+Subscribe to my channel - [Click Here](https://www.youtube.com/@codeitjs?sub_confirmation=1)
